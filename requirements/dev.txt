@@ -52,7 +52,7 @@ pyflakes==0.8.1
 Pygments==2.0.2
 
 # sha256: w2yTiocuX_SUk4szsUqqFWy0OexnVI_Ks1Nbt4sIRug
-PyYAML==3.11
+PyYAML==5.4
 
 # sha256: a_c6l7D-RUKn7i2KYnoTs4KegdERvidVGzag36DCkJk
 q==2.4
