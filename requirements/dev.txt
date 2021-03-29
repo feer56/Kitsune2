@@ -49,7 +49,7 @@ pre-commit==0.5.2
 pyflakes==0.8.1
 
 # sha256: cyCRkITm2sj0VAY4pGRHo71zD8oXKvwX0sA-7SLPT1E
-Pygments==2.0.2
+Pygments==2.7.4
 
 # sha256: w2yTiocuX_SUk4szsUqqFWy0OexnVI_Ks1Nbt4sIRug
 PyYAML==3.11
