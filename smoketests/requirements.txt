@@ -1,5 +1,5 @@
 PyYAML==3.11
-certifi==2015.9.6.2
+certifi==2022.12.7
 chardet==2.3.0
 execnet==1.4.1
 oauthlib==1.0.3
